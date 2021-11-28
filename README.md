@@ -7,7 +7,7 @@
 
 ## Reach me at: 
 <p align="left">
-  <a href="www.linkedin.com/in/tanmaysharmaa/">
+  <a href="https://www.linkedin.com/in/tanmaysharmaa/">
     <img width="30px" src="https://github.com/Tanmay8043/Tanmay8043/blob/main/images/linkedin.png" />
   </a> &nbsp;
   <a href="mailto:tanmay8043@gmail.com">
