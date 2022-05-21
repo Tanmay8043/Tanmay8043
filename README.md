@@ -3,7 +3,7 @@
 
 - 📚 Currently, I am a CSE undergrad at Birla Institute of Technology, Mesra .
 - 🔭 Actively looking for internships
-- 🌱 Currently learning : flutter, dart
+- 🌱 Currently working in webdev with svelte
 
 ## Reach me at: 
 <p align="left">
