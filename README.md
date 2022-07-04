@@ -1,4 +1,4 @@
-# Hola!<img src ="https://c.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">
+# Hola!<img src ="https://c.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30" height="30">
 ## My name is Tanmay Sharma. <img src ="https://github.com/Tanmay8043/Tanmay8043/blob/main/images/programmer.png" width="30px">
 
 - 📚 Currently, I am a CSE undergrad at Birla Institute of Technology, Mesra .
